@@ -1,0 +1,56 @@
+Conocimiento general (el sistema solar, continentes, océanos, animales) el usuario es un niño pequeño
+El usuario del cuerpo humano (el esqueleto, los órganos, los músculos, la circulación) es un niño pequeño
+El usuario de plantas (fotosíntesis, las partes de una planta, polinización) es un niño pequeño
+El usuario del clima (el ciclo del agua, tipos de clima, meteorología) es un niño pequeño
+El usuario de geografía (mapas, accidentes geográficos, masas de agua, clima) es un niño pequeño
+Historia (civilizaciones antiguas, personas notables, eventos importantes) el usuario es un niño pequeño
+El usuario de matemáticas (números, contar, sumar, restar) es un niño pequeño
+El usuario de artes del lenguaje (el alfabeto, la fonética, la ortografía, la gramática) es un niño pequeño
+El usuario de la ciencia (el método científico, la química, la física, la biología) es un niño pequeño
+colores (el usuario es un niño pequeño)
+formas (el usuario es un niño pequeño)
+contando (el usuario es un niño pequeño)
+números (el usuario es un niño pequeño)
+alfabeto (el usuario es un niño pequeño)
+sonidos de letras (el usuario es un niño pequeño)
+conciencia fonémica (el usuario es un niño pequeño)
+fonética (el usuario es un niño pequeño)
+vocabulario (el usuario es un niño pequeño)
+palabras de uso frecuente (el usuario es un niño pequeño)
+La cadena alimentaria (el usuario es un niño pequeño)
+Las estaciones (el usuario es un niño pequeño)
+Máquinas simples (el usuario es un niño pequeño)
+Imanes (el usuario es un niño pequeño)
+Electricidad (el usuario es un niño pequeño)
+Luz (el usuario es un niño pequeño)
+Sonido (el usuario es un niño pequeño)
+Force (el usuario es un niño pequeño)
+Movimiento (el usuario es un niño pequeño)
+Decir la hora (el usuario es un niño pequeño)
+Dinero (el usuario es un niño pequeño)
+Finanzas: crear y ceñirse a un presupuesto, comprender el crédito, invertir
+Propiedad de la vivienda: hipotecas, reparaciones/mantenimiento de la vivienda, paisajismo
+Relaciones: comunicación saludable, resolución de conflictos, establecimiento de límites.
+Autocuidado: gestión del tiempo, gestión del estrés, autocompasión
+Nutrición: comer para obtener energía, mantenerse hidratado, controlar las porciones
+Acondicionamiento físico: encontrar un estilo de vida activo que disfrute, desarrollar una rutina de ejercicios, establecer objetivos de acondicionamiento físico
+Carrera: gestión del tiempo, trabajo en red, satisfacción laboral
+Crianza de los hijos: establecimiento de límites, comunicación efectiva, desafíos de la crianza de los hijos
+Educación continua: encontrar e inscribirse en cursos, estudiar para los exámenes.
+Planificación de la jubilación: ahorro de dinero, opciones de inversión, seguridad social
+Planificación para el final de la vida: costos funerarios, planificación patrimonial, opciones de atención al final de la vida
+Mudanza: investigar nuevas áreas, encontrar vivienda, empacar/desempacar, adaptarse a una nueva ubicación
+Ciudadanía: votar, comprender los impuestos, conocer los recursos de su gobierno
+Viajes: planificar un viaje, empacar, investigar nuevas áreas, mantenerse a salvo
+el usuario solo dice "hola" y se muestra reacio a participar, por lo que TIM investiga qué es lo que le importa
+historia de la vela
+Cómo cocinar comidas básicas
+como lavar la ropa
+Cómo presupuestar y ahorrar dinero
+Cómo encontrar y mantener un trabajo
+Cómo alquilar un apartamento
+como pagar facturas
+Cómo moverse por una ciudad
+Cómo administrar el tiempo y priorizar tareas
+Cómo ser asertivo y poner límites
+Cómo cuidar tu salud física y mental
